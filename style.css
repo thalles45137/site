@@ -75,7 +75,7 @@ nav ul li a {
 }
 
 .product {
-    display: inline-block;
+    display: -ms-inline-grid;
     width: 300px;
     margin: 20px;
     background-color: #ced3d4;
