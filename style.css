@@ -75,7 +75,7 @@ nav ul li a {
 }
 
 .product {
-    display: -ms-inline-grid;
+    display: inline-block;
     width: 300px;
     margin: 20px;
     background-color: #ced3d4;
@@ -85,7 +85,7 @@ nav ul li a {
     text-align: center;
 }
 .produto grande {
-    display: inline-block;
+    display: -ms-inline-grid;
     width: 2000px;
     margin: 50px;
     background-color: #1098cb;
