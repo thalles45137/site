@@ -78,7 +78,7 @@ nav ul li a {
     display: inline-block;
     width: 200px;
     margin: 20px;
-    background-color: #fff;
+    background-color: #fffb00;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
@@ -111,7 +111,7 @@ button.adicionar:hover {
 
 /* Rodapé */
 footer {
-    background-color: #ec8998;
+    background-color: #faec27;
     padding: 20px;
     text-align: center;
 }
