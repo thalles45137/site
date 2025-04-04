@@ -85,7 +85,7 @@ nav ul li a {
     text-align: center;
 }
 .produto grande {
-    display: -ms-inline-grid;
+    display: inline-table;
     width: 2000px;
     margin: 50px;
     background-color: #1098cb;
