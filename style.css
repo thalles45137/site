@@ -90,7 +90,7 @@ nav ul li a {
     margin: 50px;
     background-color: #1098cb;
     border-radius: 8px;
-    box-shadow: 0 0 1000px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 3000px rgba(0, 0, 0, 0.1);
     padding: 20px;
     text-align: left;
 }
