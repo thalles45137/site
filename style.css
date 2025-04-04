@@ -15,7 +15,8 @@ body {
 /* Cabeçalho */
 header {
     background-color: #1098cb;
-    padding: 25px;
+    padding: 30px;
+    size: 25px;
     text-align: center;
 }
 
